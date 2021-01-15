@@ -1,1 +1,1 @@
-# csgoreviewstimeseries
+# projectzomboidtimeseries
